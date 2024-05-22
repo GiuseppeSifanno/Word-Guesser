@@ -1,0 +1,9 @@
+#ctn-input > input[type="text"]{
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
+
+#ctn-input{
+    justify-content: center;
+}
